@@ -27,5 +27,5 @@ for (int i = 0; i < array.Length; i++)
 {
     if (array[i]%2==0) NumberOfEven+=1;
 }
-Console.Write("Количество четных элементов массива  -   ", NumberOfEven);
+Console.Write("Количество четных элементов массива  -   ");
 Console.Write(NumberOfEven);
